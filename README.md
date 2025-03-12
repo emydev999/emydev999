@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img height="150" src="![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/ff5cecb4-0382-4075-94ff-a8c40f9d1406)
+  <img  src="![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/ff5cecb4-0382-4075-94ff-a8c40f9d1406)
  />
 </div>
 

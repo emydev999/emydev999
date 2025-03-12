@@ -68,15 +68,15 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emydev999&show_icons=true&locale=en&layout=compact" alt="emydev999" /></p>
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emydev999&show_icons=true&locale=en" alt="emydev999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emydev999&" alt="emydev999" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emydev999" alt="emydev999" /></a> </p>
+
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###

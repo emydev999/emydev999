@@ -1,8 +1,7 @@
 <br clear="both">
-<div align="center">
-  <img  src="![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/ff5cecb4-0382-4075-94ff-a8c40f9d1406)
- />
-</div>
+  
+  ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/e945f156-a99c-4f44-a2e0-d8e11dcf8df1)
+
 
 
 <h2 align="center">Hi ! My name is  Chukwuemeka Francis</h2>
